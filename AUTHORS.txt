@@ -1,0 +1,13 @@
+Jzintv : Emulator of the Intellivision videogame system
+
+  Joe Zbiciak (see http://spatula-city.org/~im14u2c/intv/)
+
+PSPInt : Porting on PSP
+
+  Ludovic Jacomme (zx81.zx81@gmail.com)
+
+Gp2x-Int   : Porting on GP2X
+Wiz-Int    : Porting on Wiz
+dingux-Int : Porting on Dingoo/Dingux
+
+  Ludovic Jacomme (zx81.zx81@gmail.com)
